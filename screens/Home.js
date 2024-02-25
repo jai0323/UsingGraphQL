@@ -40,8 +40,7 @@ export default function Home(){
             renderItem={(itemData,index) => {
                return <MovieCard Data={itemData}/>
               
-            }
-            
+            }    
         }
         />}
         </View>
